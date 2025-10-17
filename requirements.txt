@@ -1,0 +1,4 @@
+requests
+# Optional but highly recommended for data processing/visualization:
+pandas
+matplotlib
